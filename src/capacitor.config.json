@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.covid-19-tracker",
+    "appName": "covid-19-tracker",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
